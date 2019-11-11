@@ -39,5 +39,27 @@
     "urban": "^0.3.2",
     "windows-build-tools": "^5.2.2"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "canvas": "^2.6.0",
+    "canvas-constructor": "^3.1.0",
+    "cheerio": "^1.0.0-rc.3",
+    "chrono-node": "^1.3.11",
+    "discord.js": "^11.5.1",
+    "fs-nextra": "^0.4.6",
+    "got": "^9.6.0",
+    "mathjs": "^6.2.3",
+    "moment": "^2.24.0",
+    "ms": "^2.1.2",
+    "node-gyp": "^6.0.1",
+    "node.js": "0.0.0",
+    "promise": "^8.0.3",
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.8",
+    "snekfetch": "^4.0.4",
+    "sqlite": "^3.0.3",
+    "sqlite3": "^4.1.0",
+    "superagent": "^5.1.0",
+    "urban": "^0.3.2",
+    "windows-build-tools": "^5.2.2"
+}
 }
